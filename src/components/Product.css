@@ -1,0 +1,30 @@
+.product{
+
+    border: 1px solid   red;
+    height: 150px;
+    width: 120px;
+}
+/* .product-image{
+    
+    border: 2px solid   red;
+    height: 180px;
+    width: 200px;
+    margin-left: 20px;
+
+} */
+.product-info{ 
+    border: 1px solid   red;
+    height: 160px;
+    width: 250px;
+}
+.price{
+    border: 1px solid black;
+
+}
+.main{
+    border: 2px solid black;
+   
+
+
+
+}
